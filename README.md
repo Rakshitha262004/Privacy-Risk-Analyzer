@@ -1,2 +1,2 @@
 # Password strength checker
-A system designed to evaluate privacy risks in user data and generate actionable insights. It uses AI/ML techniques to score and visualize privacy exposure, helping organizations identify vulnerabilities and maintain data security. Includes a web dashboard for easy analysis and reporting.
+An AI-powered Password Strength Checker that analyzes user passwords, provides strength scores, and suggests improvements for weak passwords. The system is built in Python, with a dashboard interface, modular feature extraction, and backend support for secure storage.
